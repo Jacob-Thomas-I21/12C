@@ -1,5 +1,4 @@
-```markdown
-# TwelveC (12C) – AI-Powered Carbon Intelligence System
+### TwelveC (12C) – AI-Powered Carbon Intelligence System
 
 **TwelveC** (short for Carbon-12) is a full-stack machine learning engine that estimates, explains, optimizes, and forecasts carbon emissions using real-world energy, economic, and environmental indicators.
 
