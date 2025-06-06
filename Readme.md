@@ -386,12 +386,6 @@ graph LR
 
 ## 🤝 **Community & Support**
 
-### **📚 Documentation**
-- **📖 [API Documentation](docs/api.md)**: Complete REST API reference
-- **🔧 [Developer Guide](docs/development.md)**: Setup and contribution guidelines
-- **📊 [Model Documentation](docs/models.md)**: Technical specifications
-- **💼 [Enterprise Guide](docs/enterprise.md)**: Deployment and integration
-
 ### **🆘 Support Channels**
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/jacobjoshy/twelvec/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/jacobjoshy/twelvec/discussions)
